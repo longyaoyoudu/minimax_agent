@@ -16,7 +16,7 @@
 # - Global: https://platform.minimax.io -> api_base: https://api.minimax.io
 # - China: https://platform.minimaxi.com -> api_base: https://api.minimaxi.com
 # Please choose based on your network environment and get API key from corresponding platform
-api_key: "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJHcm91cE5hbWUiOiLpnbMiLCJVc2VyTmFtZSI6IumdsyIsIkFjY291bnQiOiIiLCJTdWJqZWN0SUQiOiIyMDA0NDQ1NjAwOTE2OTY3NzEyIiwiUGhvbmUiOiIxMzkzOTEyNzY1MyIsIkdyb3VwSUQiOiIyMDA0NDQ1NjAwOTEyNzczNDA4IiwiUGFnZU5hbWUiOiIiLCJNYWlsIjoiIiwiQ3JlYXRlVGltZSI6IjIwMjUtMTItMjYgMTg6NTU6MDQiLCJUb2tlblR5cGUiOjEsImlzcyI6Im1pbmltYXgifQ.kohNar8a8-vSekJ9lj9eS1-sKJhPI35-mwKW4-o9-FCBh12zjMSoReHxLDLKzfSGIscLi9SeD7YPdI2kbgtMXy2PpR4S4lll56H6sbver2XAFvuQnKflt_poUYvkjUIJ-O3eMd0QyRKExKZfRyLw4870BBVxs5ojiyQf_lVUDtx0P-807XZniZwSDwV12v8CvJsJM-ejix1wbcxePDgD9ksF_aeHLSoqnG3VHdZGFdmAL2NUNUDpIsxAL00NKYA0TL4QSX2fChvmTrgfzGqQfr3PMkdlaoY7ogFwoJN7EUFPewmdT9JDZEB_rXBNqgcSFn6oUljxtcIDm_v9l1hpjw"  # Replace with your MiniMax API Key
+api_key: ""  # Replace with your MiniMax API Key
 api_base: "https://api.minimax.io"   # Global users (default)
 # api_base: "https://api.minimaxi.com"  # China users
 model: "MiniMax-M2.1"
