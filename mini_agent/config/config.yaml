@@ -16,7 +16,7 @@
 # - Global: https://platform.minimax.io -> api_base: https://api.minimax.io
 # - China: https://platform.minimaxi.com -> api_base: https://api.minimaxi.com
 # Please choose based on your network environment and get API key from corresponding platform
-api_key: "sk-api-b6Wrog0skESGHn6Wh27t7y3FJOeLGFjHCuGmgyrWdTUaYgu0BDuPqd2wsFOM9sRNhQozvrGDdcDux5iFsB-JHSi6Oy9FpNFgYefeTYolp0RPSN1iPgm3W6A"  # Replace with your MiniMax API Key
+api_key: ""  # Replace with your MiniMax API Key
 # api_base: "https://api.minimax.io"   # Global users (default)
 api_base: "https://api.minimaxi.com"  # China users
 model: "MiniMax-M2.1"
@@ -52,3 +52,4 @@ tools:
   enable_mcp: true         # Enable MCP tools
   mcp_config_path: "mcp.json"  # MCP configuration file (same config directory)
                            # Note: API Keys for MCP tools are configured in mcp.json
+
